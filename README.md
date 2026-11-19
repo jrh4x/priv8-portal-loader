@@ -50,7 +50,7 @@ PRIV8 is a dedicated tool for Portal (Source Engine / Valve), featuring a hardwa
 
 ![PRIV8 Loader](loader.png)
 
-### In-Game Control Panel
+### Control Panel
 
 ![PRIV8 Control Panel](panel.png)
 
