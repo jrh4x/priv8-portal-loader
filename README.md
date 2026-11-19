@@ -33,17 +33,6 @@ PRIV8 is a dedicated tool for Portal (Source Engine / Valve), featuring a hardwa
   - **Wireframe Mode** (`mat_wireframe`): Renders level geometry and brush wireframes in real time.
   - **Coordinate Overlay** (`cl_showpos`): Displays live player position and velocity vectors.
 
-- **DirectX Viewport ESP Overlay**
-  - Layered viewport-projected ESP overlay synchronized with game frames.
-  - **ESP Snaplines**: Tracing lines from screen bottom to tracked entities.
-  - **ESP Names & Labels**: Shows object classifications and model names.
-  - **Filterable Entity Categories**:
-    - **Portals**: Blue and Orange active portals.
-    - **Cubes & Spheres**: Weighted storage cubes, companion cubes, and spheres.
-    - **Doors & Platforms**: Chamber doors and moving linear platforms.
-    - **Actors**: Player, Sentry Turrets, and NPCs.
-    - **Interactive Objects**: Buttons, pedestals, and puzzle elements.
-
 - **Diagnostics & Native Console**
   - Real-time display of player HP, active spawned entities, and exact X, Y, Z coordinates.
   - **Restore Controls**: Safely restores all modified engine ConVars and player properties to original values.
@@ -64,10 +53,6 @@ PRIV8 is a dedicated tool for Portal (Source Engine / Valve), featuring a hardwa
 ### In-Game Control Panel
 
 ![PRIV8 Control Panel](panel.png)
-
-### In-Game ESP & Gameplay
-
-![PRIV8 Gameplay](game.png)
 
 ## Access & Authentication
 
