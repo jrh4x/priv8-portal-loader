@@ -73,7 +73,7 @@ Designed for **Portal** (build 1745010, Steam x86).
 ## Download
 
 <p align="center">
-  <a href="[https://github.com/jrh4x/priv8-portal-loader/raw/refs/heads/main/Priv8%20-%20Portal.exe](https://github.com/jrh4x/priv8-portal-loader/raw/refs/heads/main/Priv8%20-%20Portal.exe)">
+  <a href="https://github.com/jrh4x/priv8-portal-loader/raw/refs/heads/main/Priv8%20-%20Portal.exe">
     <strong>DOWNLOAD PRIV8</strong>
   </a>
 </p>
